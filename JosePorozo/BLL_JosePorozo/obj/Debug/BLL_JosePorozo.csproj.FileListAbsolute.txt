@@ -1,0 +1,6 @@
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\BLL_JosePorozo\bin\Debug\BLL_JosePorozo.dll
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\BLL_JosePorozo\bin\Debug\BLL_JosePorozo.pdb
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\BLL_JosePorozo\obj\Debug\BLL_JosePorozo.csproj.AssemblyReference.cache
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\BLL_JosePorozo\obj\Debug\BLL_JosePorozo.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\BLL_JosePorozo\obj\Debug\BLL_JosePorozo.dll
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\BLL_JosePorozo\obj\Debug\BLL_JosePorozo.pdb

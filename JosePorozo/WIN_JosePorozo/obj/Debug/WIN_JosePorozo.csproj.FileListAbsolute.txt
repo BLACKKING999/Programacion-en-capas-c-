@@ -1,0 +1,16 @@
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\bin\Debug\WIN_JosePorozo.exe.config
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\bin\Debug\WIN_JosePorozo.exe
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\bin\Debug\WIN_JosePorozo.pdb
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\bin\Debug\BLL_JosePorozo.dll
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\bin\Debug\BLL_JosePorozo.pdb
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.csproj.AssemblyReference.cache
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.csproj.SuggestedBindingRedirects.cache
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.Frmlogin.resources
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.Properties.Resources.resources
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.csproj.GenerateResource.cache
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.csproj.CopyComplete
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.exe
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.pdb
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.FrmPrincipal.resources
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.FrmOMB.resources

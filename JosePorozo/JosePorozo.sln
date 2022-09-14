@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL_JosePorozo", "BLL_JosePorozo\BLL_JosePorozo.csproj", "{00FF3B76-B79F-4EBE-8BC9-02B3071E9928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WIN_JosePorozo", "WIN_JosePorozo\WIN_JosePorozo.csproj", "{DFD16B1A-C61F-4211-871A-3D1351F03903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00FF3B76-B79F-4EBE-8BC9-02B3071E9928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FF3B76-B79F-4EBE-8BC9-02B3071E9928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FF3B76-B79F-4EBE-8BC9-02B3071E9928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FF3B76-B79F-4EBE-8BC9-02B3071E9928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD16B1A-C61F-4211-871A-3D1351F03903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD16B1A-C61F-4211-871A-3D1351F03903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD16B1A-C61F-4211-871A-3D1351F03903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD16B1A-C61F-4211-871A-3D1351F03903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8E8124C-3D54-4AB0-83C3-386BD5E94A4C}
+	EndGlobalSection
+EndGlobal
