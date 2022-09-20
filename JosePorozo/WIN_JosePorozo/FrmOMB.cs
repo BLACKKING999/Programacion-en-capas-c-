@@ -41,7 +41,7 @@ namespace WIN_JosePorozo
             omb.N11 = Convert.ToDouble(TxtNumeroUno.Text);
             omb.N21 = Convert.ToDouble(TxtNumeroDos.Text);
 
-            MessageBox.Show("El resultado de la suma es:");
+            MessageBox.Show("El resultado de la suma es:" + omb.sumar(),"Suma");
         }
 
         private void BtnRestar_Click(object sender, EventArgs e)
@@ -49,7 +49,7 @@ namespace WIN_JosePorozo
             omb.N11 = Convert.ToDouble(TxtNumeroUno.Text);
             omb.N21 = Convert.ToDouble(TxtNumeroDos.Text);
 
-            MessageBox.Show("El resultado de la resta es:");
+            MessageBox.Show("El resultado de la resta es:" + omb.restar(),"Resta");
         }
 
         private void BtnMultiplicar_Click(object sender, EventArgs e)
@@ -57,7 +57,7 @@ namespace WIN_JosePorozo
             omb.N11 = Convert.ToDouble(TxtNumeroUno.Text);
             omb.N21 = Convert.ToDouble(TxtNumeroDos.Text);
 
-            MessageBox.Show("El resultado de la multiplicasion es:");
+            MessageBox.Show("El resultado de la multiplicasion es:" + omb.multiplicar(),"Multiplicar");
         }
 
         private void BtnDividir_Click(object sender, EventArgs e)
@@ -65,7 +65,14 @@ namespace WIN_JosePorozo
             omb.N11 = Convert.ToDouble(TxtNumeroUno.Text);
             omb.N21 = Convert.ToDouble(TxtNumeroDos.Text);
 
-            MessageBox.Show("El resultado de la dividir es:");
+            MessageBox.Show("El resultado de la dividir es:" + omb.Dividir(),"Dividir");
+        }
+
+        private void BtnAtras_Click(object sender, EventArgs e)
+        {
+            FrmPrincipal PN = new FrmPrincipal();
+            this.Hide();
+            PN.Show();
         }
     }
 }

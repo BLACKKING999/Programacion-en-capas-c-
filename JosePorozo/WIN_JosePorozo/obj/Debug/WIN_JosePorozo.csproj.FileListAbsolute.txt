@@ -14,3 +14,6 @@ C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WI
 C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.pdb
 C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.FrmPrincipal.resources
 C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.FrmOMB.resources
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.FrmSerieFibonacci.resources
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.FrmOT.resources
+C:\Users\josep\source\repos\Nueva carpeta\JosePorozo\WIN_JosePorozo\obj\Debug\WIN_JosePorozo.FrmDigitoVerificador.resources

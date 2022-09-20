@@ -38,6 +38,7 @@
             this.BtnDividir = new System.Windows.Forms.Button();
             this.BtnLimpiar = new System.Windows.Forms.Button();
             this.BtnSalir = new System.Windows.Forms.Button();
+            this.BtnAtras = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // LblNumUno
@@ -118,7 +119,7 @@
             // BtnLimpiar
             // 
             this.BtnLimpiar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.BtnLimpiar.Location = new System.Drawing.Point(41, 150);
+            this.BtnLimpiar.Location = new System.Drawing.Point(113, 150);
             this.BtnLimpiar.Name = "BtnLimpiar";
             this.BtnLimpiar.Size = new System.Drawing.Size(75, 40);
             this.BtnLimpiar.TabIndex = 8;
@@ -129,7 +130,7 @@
             // BtnSalir
             // 
             this.BtnSalir.BackColor = System.Drawing.Color.Red;
-            this.BtnSalir.Location = new System.Drawing.Point(165, 150);
+            this.BtnSalir.Location = new System.Drawing.Point(207, 150);
             this.BtnSalir.Name = "BtnSalir";
             this.BtnSalir.Size = new System.Drawing.Size(75, 40);
             this.BtnSalir.TabIndex = 9;
@@ -137,11 +138,22 @@
             this.BtnSalir.UseVisualStyleBackColor = false;
             this.BtnSalir.Click += new System.EventHandler(this.BtnSalir_Click);
             // 
+            // BtnAtras
+            // 
+            this.BtnAtras.Location = new System.Drawing.Point(23, 150);
+            this.BtnAtras.Name = "BtnAtras";
+            this.BtnAtras.Size = new System.Drawing.Size(75, 40);
+            this.BtnAtras.TabIndex = 10;
+            this.BtnAtras.Text = "Atras";
+            this.BtnAtras.UseVisualStyleBackColor = true;
+            this.BtnAtras.Click += new System.EventHandler(this.BtnAtras_Click);
+            // 
             // FrmOMB
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(433, 209);
+            this.Controls.Add(this.BtnAtras);
             this.Controls.Add(this.BtnSalir);
             this.Controls.Add(this.BtnLimpiar);
             this.Controls.Add(this.BtnDividir);
@@ -171,5 +183,6 @@
         private System.Windows.Forms.Button BtnDividir;
         private System.Windows.Forms.Button BtnLimpiar;
         private System.Windows.Forms.Button BtnSalir;
+        private System.Windows.Forms.Button BtnAtras;
     }
 }

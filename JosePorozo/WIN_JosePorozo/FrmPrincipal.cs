@@ -28,5 +28,26 @@ namespace WIN_JosePorozo
             this.Hide();
             omb.Show();
         }
+
+        private void sERIEFIBONACCIToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmSerieFibonacci SF = new FrmSerieFibonacci();
+            this.Hide();
+            SF.Show();
+        }
+
+        private void oPERACIONESTRIGONOMÉTRICASToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmOT OT = new FrmOT();
+            this.Hide();
+            OT.Show();
+        }
+
+        private void sERIEDÍGITOVERIFICADORToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmDigitoVerificador DV = new FrmDigitoVerificador();
+            this.Hide();
+            DV.Show();
+        }
     }
 }
